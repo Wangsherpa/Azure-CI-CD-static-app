@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>MLOps & LLMOps</h1>
+    <h1>MLOps & LLMOps Training</h1>
 	<h2>Upload your data to make predictionss</h2>
     <img
       alt="Vue logo"
