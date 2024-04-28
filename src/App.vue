@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>MLOps & LLMOps from Psitron</h1>
+    <h1>MLOps & LLMOps</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
