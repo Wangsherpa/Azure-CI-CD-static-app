@@ -2,7 +2,7 @@
   <div id="app">
 
     <h1>MLOps & LLMOps Training</h1>
-	<h2>Upload your data to make predictionss</h2>
+	<h2>Upload your data to make predictions</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
